@@ -1,0 +1,28 @@
+h1 {
+  font-size: 175%;
+  color: #aa1626;
+  text-align: center;
+  margin: 15px;
+}
+
+h2 {
+  border: 1px solid black;
+  color: #4b0a11;
+  padding: 5px;
+  background: #c32f40;
+  width: 100px;
+  text-align: center;
+  float: right;
+  position: relative;
+}
+
+p {
+  color: #4b0a11;
+  padding: 5px;
+  border: 1px solid black;
+  background: #e4a3aa;
+}
+
+section{
+  padding: 10px;
+}
