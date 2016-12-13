@@ -1,0 +1,29 @@
+h1 {
+  font-size: 1.75em;
+  color: #aa1626;
+  text-align: center;
+  margin: 15px;
+}
+
+h2 {
+  border: 1px solid black;
+  color: #4b0a11;
+  font-size: 1.25em;
+  padding: 5px;
+  width: 120px;
+  text-align: center;
+  float: right;
+  position: relative;
+}
+
+p {
+  color: #4b0a11;
+  margin:  5px;
+  clear: right;
+}
+
+div {
+  margin: 10px;
+  border: 1px solid black;
+  background: #f8e8e9;
+}
